@@ -1,0 +1,25 @@
+* {
+font-family: 'Source Serif Pro', serif;
+}
+
+img {
+    width: 100px;
+}
+
+.container-header {
+font-size: 10px;
+margin-right: 130px;
+margin-left: 130px;
+height: 60px;
+background-color: rgb(214, 210, 155);
+text-align: center;
+padding-top: 20px;  
+}
+
+.container {
+margin-right: 130px;
+margin-left: 130px;
+background-color: rgb(241, 239, 239);
+
+}
+
